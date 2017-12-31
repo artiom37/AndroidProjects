@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/couldthisbelove/couldthisbelove.iml" filepath="$PROJECT_DIR$/couldthisbelove/couldthisbelove.iml" />
       <module fileurl="file://$PROJECT_DIR$/javapractice/javapractice.iml" filepath="$PROJECT_DIR$/javapractice/javapractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membersclub/membersclub.iml" filepath="$PROJECT_DIR$/membersclub/membersclub.iml" />
     </modules>
   </component>
 </project>
